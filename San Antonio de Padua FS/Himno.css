@@ -1,0 +1,44 @@
+body{
+    background-image: url(jhenyxd.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.titulo{
+    top: 10cm;
+
+}
+.contexd{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 20px;
+    width: 1020px;
+    height: 920px;
+
+
+}
+.titu{
+    border-radius: 10px;
+    
+    color: white;
+    background-color: rgba(17, 17, 17, 0.61);
+    width: 670px;
+    height: 70px;
+    
+    
+}
+
+
+.container{
+    background-image: url(borra.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-right: 30px;
+    margin-top: 30px;
+    color: rgb(20, 18, 18);
+    padding: 35px;
+    font-size: 25px;
+    width: 600px;
+    height: 720px;
+    border-radius: 20px;
+}

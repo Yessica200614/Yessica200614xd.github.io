@@ -1,0 +1,45 @@
+body{
+    background-image: url(jhenyxd.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.titulo{
+    top: 10cm;
+
+}
+.contexd{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.322);
+    border-radius: 20px;
+    width: 1420px;
+    height: 1050px;
+    position: relative;
+
+
+}
+.foto1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 1360px;
+    height: 450px;
+    border-radius: 20px;
+
+    
+}
+.blanco{
+    background: white;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 1360px;
+    height: 510px;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    margin: 15px;
+}
